@@ -1,0 +1,10 @@
+git init - create local repository
+git status - status of file(s) in the specified branch
+git add - add it to local repo not to remote repo - staging
+git commit -m "comments"  - commit to local
+git pull "url" - from remote repo
+git push --set-upstream "url" branchname
+
+
+push & pull commands for remote repo;
+add, commit for local repository;
